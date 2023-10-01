@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+body{
+    margin:0;
+}
+.navbar{
+    color: white;
+}
+.cartas{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    justify-content: space-evenly;
+}
+.titulo{
+    text-align: center;
+}
+.orador{
+    font-size: 2rem;
+}
+.java{
+    display: flex;
+}
+.java>p{
+    margin:0 3px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.segunav{
+    
+}
